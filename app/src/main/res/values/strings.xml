@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KindsOfBottomNavigationBar</string>
+    <string name="title_activity_tab_host">TabHost</string>
+</resources>
