@@ -28,7 +28,9 @@
         <activity android:name=".activity.Second_Activity" />
         <activity android:name=".activity.Third_Activity" />
         <activity android:name=".activity.Four_Activity" />
-        <activity android:name=".activity.FragmentTabHost_Activity"></activity>
+        <activity android:name=".activity.FragmentTabHost_Activity" />
+        <activity android:name=".activity.TabLayout_Activity"/>
+        <activity android:name=".activity.RadioGroup_Activity" />
     </application>
 
 </manifest>

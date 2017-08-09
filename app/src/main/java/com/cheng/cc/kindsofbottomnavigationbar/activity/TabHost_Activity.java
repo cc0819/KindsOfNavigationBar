@@ -38,7 +38,6 @@ public class TabHost_Activity extends TabActivity {
                 .setContent(intent4));
 
         tabHost.setCurrentTab(0);
-
     }
 
 }

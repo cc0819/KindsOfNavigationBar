@@ -45,10 +45,10 @@ public class FragmentTabHost_Activity extends AppCompatActivity {
 
         Drawable images[] = new Drawable[4];
 
-        images[0] = this.getResources().getDrawable(R.mipmap.home, null);
-        images[1] = this.getResources().getDrawable(R.mipmap.present, null);
-        images[2] = this.getResources().getDrawable(R.mipmap.text, null);
-        images[3] = this.getResources().getDrawable(R.mipmap.myself, null);
+        images[0] = this.getResources().getDrawable(R.mipmap.home);
+        images[1] = this.getResources().getDrawable(R.mipmap.present);
+        images[2] = this.getResources().getDrawable(R.mipmap.text);
+        images[3] = this.getResources().getDrawable(R.mipmap.myself);
 
 
         tabhost.setup(this, getSupportFragmentManager(), android.R.id.tabcontent);

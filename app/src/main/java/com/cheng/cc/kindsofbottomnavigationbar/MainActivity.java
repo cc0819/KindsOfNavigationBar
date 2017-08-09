@@ -8,6 +8,7 @@ import android.widget.Button;
 
 import com.cheng.cc.kindsofbottomnavigationbar.activity.FragmentTabHost_Activity;
 import com.cheng.cc.kindsofbottomnavigationbar.activity.TabHost_Activity;
+import com.cheng.cc.kindsofbottomnavigationbar.activity.TabLayout_Activity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -45,6 +46,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, FragmentTabHost_Activity.class));
                 break;
             case R.id.button3:
+                startActivity(new Intent(MainActivity.this, TabLayout_Activity.class));
                 break;
             case R.id.button4:
                 break;
