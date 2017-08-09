@@ -70,6 +70,7 @@ public class PagerTabStrip_Activity extends AppCompatActivity {
                 break;
         }
     }
+//    哈哈哈
 
 
     public class ViewPagerAdapter extends FragmentStatePagerAdapter {

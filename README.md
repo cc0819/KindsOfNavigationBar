@@ -1,2 +1,2 @@
-# KindsOfBottomNavigationBar
-底部导航菜单的几种写法
+# KindsOfNavigationBar
+几种导航菜单
