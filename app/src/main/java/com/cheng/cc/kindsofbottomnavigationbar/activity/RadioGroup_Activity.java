@@ -51,7 +51,7 @@ public class RadioGroup_Activity extends AppCompatActivity {
         data.add(new FourthFragment());
 
         view_pager.setAdapter(new ViewPagerAdapter(getSupportFragmentManager()));
-        view_pager.setCurrentItem(0);
+//        view_pager.setCurrentItem(0);
 
 //        设置默认显示的位置,两种都能设置位置
 //        tab.check(R.id.present);

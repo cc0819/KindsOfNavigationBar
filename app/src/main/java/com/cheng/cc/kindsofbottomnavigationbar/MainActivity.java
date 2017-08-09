@@ -10,6 +10,7 @@ import com.cheng.cc.kindsofbottomnavigationbar.activity.FragmentTabHost_Activity
 import com.cheng.cc.kindsofbottomnavigationbar.activity.RadioGroup_Activity;
 import com.cheng.cc.kindsofbottomnavigationbar.activity.TabHost_Activity;
 import com.cheng.cc.kindsofbottomnavigationbar.activity.TabLayout_Activity;
+import com.cheng.cc.kindsofbottomnavigationbar.activity.TextViewFrag_Activity;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
@@ -53,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, RadioGroup_Activity.class));
                 break;
             case R.id.button5:
-
+                startActivity(new Intent(MainActivity.this, TextViewFrag_Activity.class));
                 break;
             case R.id.button6:
 
