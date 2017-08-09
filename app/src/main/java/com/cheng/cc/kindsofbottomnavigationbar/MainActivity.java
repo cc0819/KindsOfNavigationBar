@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.Button;
 
 import com.cheng.cc.kindsofbottomnavigationbar.activity.FragmentTabHost_Activity;
+import com.cheng.cc.kindsofbottomnavigationbar.activity.PagerTabStrip_Activity;
 import com.cheng.cc.kindsofbottomnavigationbar.activity.RadioGroup_Activity;
 import com.cheng.cc.kindsofbottomnavigationbar.activity.TabHost_Activity;
 import com.cheng.cc.kindsofbottomnavigationbar.activity.TabLayout_Activity;
@@ -57,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, TextViewFrag_Activity.class));
                 break;
             case R.id.button6:
-
+                startActivity(new Intent(MainActivity.this, PagerTabStrip_Activity.class));
                 break;
         }
     }

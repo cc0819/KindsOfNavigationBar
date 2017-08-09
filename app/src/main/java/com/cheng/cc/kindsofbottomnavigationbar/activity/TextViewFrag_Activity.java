@@ -60,7 +60,6 @@ public class TextViewFrag_Activity extends AppCompatActivity {
         data.add(new ThirdFragment());
         data.add(new FourthFragment());
 
-
         viewPager.setAdapter(new ViewPagerAdapter(getSupportFragmentManager()));
         initView();
 
