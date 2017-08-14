@@ -6,10 +6,13 @@
     TabHHost为4.0版本以前推荐的导航用控件,4.0之后已经被抛弃了
     一次性加载需要显示的tab页面，比较消耗内存
 
+    效果如图：
+   ![image](https://github.com/cc0819/KindsOfNavigationBar/blob/master/app/art/tabhost.gif)
+   
+
     详细代码课下载或查看浏览博客：
 
-    效果如图：
-    ![image](https://github.com/cc0819/KindsOfBottomNavigationBar/blob/master/art/tabhost.gif)
+   
 
 第二种：利用FragmentTabHost实现横向菜单导航功能
 
