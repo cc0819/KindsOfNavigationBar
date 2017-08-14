@@ -32,7 +32,8 @@
         <activity android:name=".activity.TabLayout_Activity" />
         <activity android:name=".activity.RadioGroup_Activity" />
         <activity android:name=".activity.TextViewFrag_Activity" />
-        <activity android:name=".activity.PagerTabStrip_Activity"></activity>
+        <activity android:name=".activity.PagerTabStrip_Activity" />
+        <activity android:name=".activity.BottomNavigationBar_Activity"></activity>
     </application>
 
 </manifest>
