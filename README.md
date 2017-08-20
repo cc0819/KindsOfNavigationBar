@@ -10,7 +10,7 @@
    ![image](https://github.com/cc0819/KindsOfNavigationBar/blob/master/app/art/tabhost.gif)
    
 
-    详细代码课下载或查看浏览博客：
+    
 
    
 
